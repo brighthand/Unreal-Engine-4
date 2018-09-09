@@ -1,0 +1,15 @@
+#########################
+# Unreal Generated files#
+#########################
+*/Build
+*/Binaries
+*/DerivedDataCache
+*/Intermediate
+*/Saved
+*_BuiltData.uasset
+BuildEscape/Content/StarterContent/
+
+################################
+# Visual Studio generated code #
+################################
+*.VC.db
